@@ -30,7 +30,6 @@ app/Imports
 app/Exports
 resources/views/filament/clusters
 resources/views/filament/pages
-database/migrations
 database/migrations/2024_07_18_113247_create_r_t_s_table.php
 database/migrations/2024_07_18_113305_create_kepala_keluargas_table.php
 database/migrations/2024_07_18_113317_create_anggota_keluargas_table.php
