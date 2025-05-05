@@ -7,7 +7,7 @@ A modern, responsive, and user-friendly **Web-Based Citizen Data Management Appl
 Aplikasi berbasis web ini memiliki 2 aktor utama, yaitu :
 - Pengurus RW, memiliki hak akses ke seluruh RT yang ada
 - Pengurus RT, hanya memiliki hak akses untuk mengelola data warga pada RT-nya masing-masing.
-### 👤 Dashboard
+### 🏡 Dashboard
 Menampilkan ringkasan data warga:
 - Total jumlah RT dalam satu RW
 - Total jumlah KK dan jumlah warga
@@ -47,11 +47,11 @@ Mengelola informasi akun pengguna:
 
 ---
 
-#### 🧳 Data Kelahiran
+#### 📝 Data Kelahiran
 - Mencatat dan mengelola data kelahiran pada masing-masing RT
 ![Data Pendatang](./images/8.png)
 
-#### 🧳 Data Pendatang
+#### 📝 Data Pendatang
 - Mencatat dan mengelola data warga pendatang baru. Dengan cluster desain yang dimiliki filament, data pendatang dibagi menjadi 2, yaitu data keluarga baru dan family lain.
 ![Data Pendatang](./images/12.png)
 
@@ -59,11 +59,11 @@ Mengelola informasi akun pengguna:
 - Pencatatan warga yang meninggal dunia  
 ![Data Kematian](./images/9.png)
 
-#### 🎁 Jenis Bantuan
+#### 📝 Jenis Bantuan
 - Mendefinisikan kategori bantuan sosial yang tersedia  
 ![Jenis Bantuan](./images/7.png)
 
-#### 👥 Data Penerima Bantuan
+#### 📝 Data Penerima Bantuan
 - Mencatat individu atau keluarga penerima bantuan  
 ![Penerima Bantuan](./images/6.png)
 
